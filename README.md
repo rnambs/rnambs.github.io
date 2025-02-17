@@ -1,2 +1,2 @@
-redirects to my new page, you can still access on [rnambs.github.io](here)
+redirects to my new page, you can access it [here](rnambs.github.io)
 
