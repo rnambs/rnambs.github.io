@@ -1,6 +1,2 @@
-# Rahul Nambiar
-
-My personal website! Learn more about me and my projects.
-
-Based on [this](http://ankitsultana.com/researcher) template
+redirects to my new page, you can still access on [rnambs.github.io](here)
 
